@@ -1,0 +1,16 @@
+{
+  "name": "nodeJs-bower",
+  "version": "0.0.0",
+  "authors": [
+    "summer <yingywang@tibco-support.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
